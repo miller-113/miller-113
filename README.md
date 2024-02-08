@@ -30,7 +30,7 @@
 
 <img align="left" alt="Git" title="Git"  width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="PyCharm" title="PyCharm" style="padding: 5px 0; margin: 0 5px" width="40px" src="https://github.com/devicons/devicon/raw/master/icons/pycharm/pycharm-original.svg" />
-<img align="left" alt="Heroku" title="Heroku" width="40px" style="padding: 5px 0; margin: 0 1px" src="https://github.com/devicons/devicon/raw/master/icons/heroku/heroku-original-wordmark.svg" />
+
 <img align="left" alt="Postman" title="Postman"  width="40px" style="padding: 2px 0; margin: 0 3px" src="https://cdn.worldvectorlogo.com/logos/postman.svg" />
 <img align="left" alt="Postman" title="Postman"  width="40px" style="padding: 7px 0; margin: 0 3px" src="https://cdn.worldvectorlogo.com/logos/docker.svg" />
 
